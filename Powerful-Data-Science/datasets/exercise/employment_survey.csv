@@ -1,0 +1,201 @@
+Timestamp,Name,Are you employed?,How old are you?,How much do you make?,Gender,Job Title
+"July 07, 2013", ERIC Farmer  ,yes,35.6,"$39,799",male,Data Scientist
+1977-07-30, amber Osborne  ,yes,62.7,"$53,483",man,HR Specialist
+"September 14, 1971", ALYSSA Smith  ,Yes,52.4,"$54,396",man,Data Scientist
+18-Jun-2020, mario Smith  ,no,46.1,"$39,284",Female,Data Scientist
+09/18/1988, SARAH Koch  ,No,25.3,"$77,986",male,product Owner
+08/31/1986, marie Parker  ,no,25.3,"$57,107",Man,MARKETING Manager
+03/10/1985, BRIAN Humphrey  ,Yes,20.7,"$32,130",woman,Data Scientist
+1979-07-01, stacey Miller  ,Yes,58.7,"$59,848",woman,Teacher
+"February 13, 2020", TODD Jones  ,No,46.3,"$35,379",Female,Data Scientist
+"December 22, 1976", kathleen Cannon  ,Yes,51.3,"$61,806",Male,MARKETING Manager
+19-Jan-2016, DAVID Alvarez  ,yes,19.0,"$67,378",Woman,Project manager
+2020-05-27, andrea Baker  ,no,63.6,"$37,689",Man,HR Specialist
+11-Feb-2007, MONIQUE Henderson  ,No,57.1,"$64,450",man,Data Scientist
+01-Dec-1975, jason Ryan  ,No,28.0,"$56,191",Woman,software engineer
+"March 08, 2010", JESSICA Harris  ,No,26.5,"$62,330",woman,Project manager
+"September 17, 1998", larry Carney  ,yes,26.6,"$78,451",man,Teacher
+02/29/1972, DEBRA Kim  ,No,32.3,"$46,319",Man,sales associate
+01/11/1972, zachary Martinez  ,yes,42.7,"$38,693",female,MARKETING Manager
+"May 17, 1976", JEFFREY Morgan  ,No,38.3,"$36,657",man,sales associate
+11/17/1984, brianna Hall  ,No,31.7,"$37,762",Female,HR Specialist
+1985-10-31, JEFFREY Jones  ,no,46.8,"$48,843",Male,MARKETING Manager
+05/22/2004, crystal Perez  ,Yes,24.6,"$55,117",Man,product Owner
+20-Dec-2010, REBECCA Heath  ,No,31.7,"$54,150",Woman,Data Scientist
+10/22/1971, chad Young  ,Yes,35.2,"$62,407",woman,HR Specialist
+"March 11, 2008", ELIZABETH Lewis  ,No,39.4,"$50,195",Male,Teacher
+"July 14, 1983", david Walls  ,yes,54.9,"$71,803",Man,Data Scientist
+09/22/2018, ASHLEY Kennedy  ,no,27.4,"$46,030",female,software engineer
+23-Mar-2014, kristen Aguirre  ,yes,42.2,"$90,802",Man,software engineer
+22-Sep-2017, JAMES Davis  ,Yes,45.8,"$59,385",woman,Data Scientist
+31-Jan-2007, ryan Henderson  ,Yes,20.2,"$37,142",Female,product Owner
+1998-07-20, STUART Daniel  ,No,46.6,"$33,936",Male,Project manager
+1985-01-01, emily Joyce  ,Yes,26.0,"$57,237",Woman,HR Specialist
+2000-07-27, COREY Powell  ,no,21.1,"$46,648",woman,HR Specialist
+2010-02-06, matthew Hensley  ,no,62.6,"$60,710",man,HR Specialist
+06-Dec-1988, JOHN Lee  ,No,63.4,"$57,098",Woman,HR Specialist
+30-Jan-2025, shane Henderson  ,Yes,56.0,"$48,907",Woman,HR Specialist
+11-Jun-1970, JOSHUA Wright  ,yes,32.3,"$37,298",Female,Project manager
+"August 21, 2021", sandra Ramos  ,Yes,22.6,"$27,277",Man,Project manager
+11/01/2024, MICHELLE Pierce  ,yes,50.2,"$43,302",man,product Owner
+"November 12, 1980", brent Kidd  ,Yes,38.7,"$62,845",Woman,MARKETING Manager
+05-Jul-2017, MARY Novak  ,no,23.7,"$53,211",woman,sales associate
+"October 05, 1998", sara Allison  ,No,41.3,"$31,313",female,Data Scientist
+25-Feb-1993, GABRIEL Tucker  ,no,19.6,"$52,597",woman,product Owner
+1988-11-28, jason Morales  ,Yes,60.7,"$55,779",man,Project manager
+31-Jul-1980, BRIAN Gray  ,Yes,30.2,"$36,742",woman,sales associate
+"August 26, 1984", tricia Baker  ,yes,49.1,"$52,305",female,Project manager
+2021-12-15, KRISTEN Gibson  ,No,32.7,"$50,873",woman,MARKETING Manager
+11/27/1992, rodney Bernard  ,yes,42.4,"$32,855",Male,MARKETING Manager
+15-Dec-1976, WENDY Peters  ,yes,43.7,"$55,366",male,MARKETING Manager
+1976-04-24, jennifer Moore  ,yes,26.7,"$58,411",Female,HR Specialist
+"November 09, 1995", KENNETH Novak  ,no,63.6,"$66,245",Female,HR Specialist
+07/31/1976, beth Daniels  ,No,54.4,"$65,807",male,product Owner
+1994-06-06, JULIE Brown  ,yes,62.2,"$29,334",Female,product Owner
+"May 29, 1993", breanna Shaw  ,Yes,60.1,"$35,932",Woman,HR Specialist
+2011-01-31, MELISSA Moore  ,no,46.1,"$57,725",Male,Data Scientist
+01-Jan-1988, susan Miller  ,No,61.3,"$57,706",Man,Teacher
+"December 04, 2024", JACOB Larson  ,yes,22.2,"$57,725",Female,Project manager
+1972-12-15, emma Young  ,Yes,27.2,"$107,790",male,Project manager
+"August 29, 2019", DAVID Zamora  ,Yes,20.1,"$58,563",man,Teacher
+04/07/2001, john Wheeler  ,no,33.3,"$67,033",man,HR Specialist
+29-Jun-2006, CHRISTINE Barnes  ,Yes,36.3,"$64,310",man,sales associate
+1978-06-30, brandy Mills  ,no,30.8,"$59,770",Woman,HR Specialist
+1995-10-05, SARAH Harris  ,no,57.0,"$45,270",Man,MARKETING Manager
+13-May-1975, jennifer Allen  ,yes,34.8,"$61,384",Male,Data Scientist
+07/27/2007, RANDY Powers  ,yes,31.2,"$38,407",Man,HR Specialist
+12/13/1989, kevin Stewart  ,No,43.5,"$46,447",female,software engineer
+"October 11, 2012", KAREN Jones  ,No,24.6,"$42,719",male,Teacher
+03-Feb-2012, stephen Murillo  ,No,55.7,"$51,228",female,Teacher
+"August 11, 1994", WENDY Jones  ,no,21.5,"$84,719",Man,HR Specialist
+16-Apr-2009, jason Baker  ,no,64.4,"$21,991",male,Data Scientist
+"February 01, 1983", SARAH Ibarra  ,yes,54.3,"$60,293",man,product Owner
+12/12/2017, natasha Wood  ,No,27.3,"$25,809",Male,MARKETING Manager
+"September 25, 1974", ERIC Bass  ,yes,18.3,"$42,921",Man,Teacher
+02/12/1973, jade Carr  ,No,56.3,"$66,334",female,Data Scientist
+"December 31, 2014", VANESSA Valdez  ,yes,51.2,"$50,964",Male,Project manager
+1985-07-05, alan Montoya  ,no,52.3,"$33,833",male,product Owner
+"August 10, 2022", KEVIN Alvarado  ,No,54.2,"$39,270",woman,Teacher
+09/10/1989, sheila Taylor  ,yes,21.5,"$60,193",Woman,Project manager
+07-Jun-1975, DARRELL Rodriguez  ,no,34.8,"$39,044",Male,Project manager
+"November 04, 1985", angela Nelson  ,yes,23.4,"$53,246",Female,software engineer
+11/15/1976, CASSANDRA Robbins  ,yes,58.6,"$50,683",Female,Teacher
+11/14/1995, james Walters  ,no,47.3,"$40,225",Man,MARKETING Manager
+12/01/1988, JOSEPH Freeman  ,no,33.6,"$82,159",Man,product Owner
+08-Nov-2000, rebecca Mathis  ,yes,21.0,"$59,508",female,Data Scientist
+"April 05, 2013", CHRISTOPHER Henderson  ,Yes,32.6,"$19,622",man,software engineer
+29-Oct-1994, joshua Smith  ,no,33.3,"$52,796",woman,Data Scientist
+1981-01-25, KELLIE Walsh  ,no,52.3,"$40,073",female,Data Scientist
+11-Mar-1995, jose Figueroa  ,No,48.0,"$62,786",Man,HR Specialist
+03/06/1994, ANDREA Patterson  ,No,59.7,"$38,112",female,Project manager
+1984-04-04, alec Jones  ,No,40.2,"$48,278",male,HR Specialist
+"August 10, 2015", NICOLE Mckee  ,yes,23.6,"$57,574",Man,sales associate
+03/02/1988, amy Davenport  ,No,51.5,"$62,986",male,MARKETING Manager
+2017-10-04, BRANDI Hernandez  ,yes,53.8,"$31,995",man,Data Scientist
+"July 07, 2016", david Parker  ,no,44.4,"$44,982",male,product Owner
+2014-02-06, RACHEL Flynn  ,yes,54.2,"$42,875",Male,MARKETING Manager
+"November 10, 1974", michelle Nolan  ,no,41.2,"$40,200",Female,sales associate
+06/15/2011, JASON Wright  ,Yes,42.6,"$76,481",woman,Project manager
+18-Mar-2013, curtis Deleon  ,No,38.1,"$56,074",Male,MARKETING Manager
+"August 24, 1981", NICOLE Russell  ,Yes,19.2,"$31,086",Female,product Owner
+2006-05-08, christine Moore  ,yes,23.1,"$63,767",woman,sales associate
+14-Aug-2019, SARAH Hancock  ,no,19.5,"$81,832",man,HR Specialist
+1986-08-29, theresa Cochran  ,yes,47.9,"$65,486",Woman,Data Scientist
+02/13/1981, NICOLE Johnson  ,no,32.8,"$27,209",Male,sales associate
+06/16/2001, jill Cook  ,no,41.9,"$42,736",Man,MARKETING Manager
+28-Oct-1995, SARAH Pham  ,yes,60.7,"$69,003",man,HR Specialist
+"May 15, 1988", michelle Cochran  ,yes,29.7,"$39,384",female,software engineer
+07/21/2013, JOSEPH Cobb  ,no,37.3,"$56,657",male,HR Specialist
+"October 30, 2016", daniel Brennan  ,Yes,53.5,"$61,619",Male,software engineer
+"November 26, 2007", MICHELE Walker  ,no,28.8,"$36,096",man,HR Specialist
+11-Dec-1984, lisa Stevens  ,No,21.6,"$49,107",woman,sales associate
+03-Aug-2016, KEVIN Pope  ,yes,31.6,"$1,380",Male,Teacher
+01/26/1992, jeremy Johnson  ,no,25.6,"$34,634",woman,Teacher
+04/14/2022, JAMES Murphy  ,Yes,61.7,"$46,211",Female,Teacher
+"October 22, 2022", michelle Rasmussen  ,no,56.0,"$31,283",man,Project manager
+"October 22, 1973", JOSHUA May  ,No,47.8,"$74,486",Female,Data Scientist
+"August 03, 1985", ricardo Zavala  ,No,59.0,"$28,547",Female,HR Specialist
+08-Mar-1972, AMANDA Crosby  ,yes,55.8,"$43,399",man,Project manager
+13-Oct-2024, darrell Waller  ,no,26.8,"$51,961",Male,product Owner
+06/20/1991, GREGORY Estes  ,No,60.0,"$71,619",woman,software engineer
+20-Apr-1997, joseph Rodriguez  ,Yes,43.3,"$28,462",woman,HR Specialist
+03/21/1988, RYAN Chandler  ,Yes,55.9,"$67,447",Female,Teacher
+"July 04, 1974", lee Obrien  ,No,60.1,"$50,153",Man,Teacher
+"May 11, 1984", WILLIAM Cruz  ,Yes,32.9,"$35,277",male,HR Specialist
+08/06/2008, barbara Scott  ,no,23.2,"$56,931",Woman,product Owner
+11/08/2018, JEANNE Smith  ,No,28.7,"$52,985",Male,Project manager
+1991-06-01, sara Ryan  ,No,38.1,"$40,996",man,MARKETING Manager
+20-Jun-1984, JENNIFER Harmon  ,yes,56.4,"$51,047",male,Project manager
+08/09/2014, emily Diaz  ,Yes,58.5,"$44,220",Female,software engineer
+"December 22, 2003", CHAD Beck  ,Yes,18.3,"$51,702",woman,Project manager
+1996-12-03, mark Edwards  ,no,42.0,"$59,931",woman,product Owner
+"September 30, 2013", MELANIE Cortez  ,No,37.6,"$73,790",Woman,Project manager
+03/23/2001, kevin Parker  ,Yes,28.4,"$31,432",man,Data Scientist
+1979-09-22, RICKY Powell  ,No,23.6,"$81,995",man,product Owner
+01/10/1988, kenneth Martinez  ,Yes,33.9,"$20,718",male,product Owner
+03-Jul-1979, ROBERT Bentley  ,No,62.3,"$47,723",male,sales associate
+"October 13, 1986", erica Orr  ,Yes,33.2,"$58,824",Male,sales associate
+11-Sep-2020, CHRISTINA Turner  ,Yes,42.4,"$54,214",Woman,sales associate
+14-Mar-2008, amy Smith  ,no,51.0,"$40,659",woman,MARKETING Manager
+09/05/2006, JUSTIN Jordan  ,No,35.1,"$46,878",Male,product Owner
+18-Nov-1987, bethany Pena  ,Yes,63.7,"$42,604",male,product Owner
+11/01/2020, STEVEN Ramos  ,Yes,63.2,"$41,159",Man,sales associate
+12-Oct-2009, jason Kennedy  ,no,29.8,"$62,744",man,HR Specialist
+26-Feb-1999, RACHEL Flynn  ,Yes,41.4,"$55,355",woman,Data Scientist
+09/16/2009, gene Miller  ,no,32.1,"$39,606",Male,HR Specialist
+"March 07, 1997", ZACHARY Schultz  ,No,31.4,"$63,493",female,software engineer
+"August 20, 1994", matthew Cardenas  ,yes,19.7,"$54,609",woman,product Owner
+12/04/1984, KAREN Chambers  ,no,46.6,"$62,192",female,software engineer
+1979-06-01, jeffrey Gonzalez  ,No,41.6,"$59,444",Male,Project manager
+03-Sep-2004, ANDREW Sanchez  ,no,20.4,"$37,565",female,sales associate
+2003-08-02, thomas Atkinson  ,Yes,31.1,"$41,597",Man,Project manager
+03/09/1976, CHARLES Perry  ,no,60.7,"$61,209",female,sales associate
+07-Jun-2021, crystal Lee  ,no,29.3,"$59,155",Man,HR Specialist
+1973-03-17, HEATHER Snyder  ,yes,24.8,"$49,686",Woman,sales associate
+"June 18, 1977", john Douglas  ,yes,41.0,"$51,759",Man,Project manager
+"May 26, 1980", ADAM Potter  ,no,64.3,"$69,164",Woman,HR Specialist
+09/12/2012, kayla Rodriguez  ,yes,29.4,"$41,126",Man,software engineer
+20-Nov-1980, RONALD Thompson  ,yes,49.6,"$58,206",woman,HR Specialist
+11/26/2023, susan Holmes  ,No,53.8,"$46,967",female,sales associate
+22-Apr-2016, BRENT Wright  ,Yes,29.2,"$46,734",man,MARKETING Manager
+23-Sep-1998, melinda Bryant  ,no,52.2,"$66,481",Male,HR Specialist
+"August 02, 2010", LAURIE Contreras  ,yes,35.3,"$62,381",Female,Data Scientist
+04/28/1974, vanessa Larson  ,No,47.7,"$62,202",Woman,product Owner
+"March 08, 1996", STEPHANIE Vance  ,Yes,47.8,"$69,582",Man,MARKETING Manager
+12/21/1995, cheyenne Ball  ,yes,43.2,"$50,315",man,MARKETING Manager
+20-Jul-2010, WILLIAM Rivas  ,no,22.2,"$60,229",Man,software engineer
+07-Nov-2001, amy Merritt  ,no,57.3,"$45,345",male,software engineer
+2006-01-03, JULIA Wells  ,no,33.1,"$54,862",male,software engineer
+09-Feb-1987, jonathon Wright  ,no,26.8,"$48,047",Man,product Owner
+08/25/2007, DANA Cannon  ,No,19.9,"$51,454",woman,MARKETING Manager
+"October 13, 1970", adrienne Sims  ,No,45.8,"$58,927",male,software engineer
+"April 17, 2016", JOSHUA Jones  ,No,49.8,"$37,726",man,Data Scientist
+2019-01-17, justin Nelson  ,No,18.8,"$81,385",woman,Project manager
+18-Oct-1977, LUIS Fernandez  ,yes,42.1,"$34,909",Female,Teacher
+05/23/2016, devon Hall  ,Yes,28.6,"$31,787",woman,product Owner
+"July 17, 2006", HEATHER Mccarthy  ,yes,48.3,"$67,371",woman,Teacher
+02/05/2021, caleb Russell  ,no,26.2,"$61,874",Man,Teacher
+"February 27, 1988", AMY Perry  ,Yes,50.5,"$59,361",Male,sales associate
+2022-04-21, jamie Fisher  ,Yes,36.2,"$59,425",Male,HR Specialist
+14-Aug-2013, REBECCA Silva  ,No,62.0,"$49,816",Female,sales associate
+1993-02-24, heather Gates  ,yes,24.5,"$36,541",male,Project manager
+"August 04, 1977", KATHY James  ,no,34.0,"$51,137",man,Data Scientist
+12/21/1989, adam Bell  ,yes,23.3,"$39,842",male,product Owner
+"August 03, 1999", KAREN Castaneda  ,no,61.5,"$64,626",Female,Data Scientist
+1980-10-06, stephanie Barnes  ,no,59.2,"$47,794",woman,Data Scientist
+11/16/2000, JULIE Payne  ,No,30.1,"$37,617",Woman,MARKETING Manager
+1970-03-22, carrie Walker  ,Yes,49.0,"$45,179",male,product Owner
+02/20/2019, JEFFREY Graham  ,Yes,56.4,"$56,193",Woman,sales associate
+12/22/2018, anthony Rogers  ,Yes,44.1,"$41,544",Female,Data Scientist
+"December 04, 1987", ERIN Powell  ,Yes,42.9,"$37,666",male,software engineer
+2004-01-25, frederick Mcdonald  ,yes,29.4,"$53,655",man,HR Specialist
+2021-11-07, DAVID Dean  ,Yes,22.4,"$53,674",Male,Data Scientist
+02/27/1982, anthony Long  ,yes,60.2,"$42,395",male,HR Specialist
+"July 19, 2004", ANNE Johnson  ,Yes,60.3,"$42,934",female,MARKETING Manager
+29-Mar-1977, dawn Taylor  ,yes,47.8,"$53,480",Male,Project manager
+"July 20, 2012", STEVEN Williams  ,Yes,33.9,"$28,278",Female,sales associate
+23-Apr-1990, nicholas Lewis  ,yes,34.4,"$28,888",woman,product Owner
+"June 25, 2013", MARK Juarez  ,Yes,52.1,"$39,223",Female,HR Specialist
+19-Jul-2004, nicholas Walton  ,yes,60.2,"$46,798",male,sales associate
+"June 11, 2011", MARIE King  ,yes,59.7,"$54,663",Male,product Owner
+1983-07-15, christopher Smith  ,No,54.7,"$72,130",man,Project manager
