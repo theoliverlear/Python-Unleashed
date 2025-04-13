@@ -16,31 +16,46 @@ how to use them.
 
 ## Get Started
 
-### Easiest Option
-
 You can create a GitHub Codespace under the green Code button. This will
 create an IDE for you in the browser.
 
-#### Create a Codespace with Code Button
+### Create a Codespace with Code Button
 
 ![Codespaces Example](./images/codespaces_example.png)
 
-#### Load the Codespace Environment
+### Load the Codespace Environment
+
+```bash
+cd Powerful-Data-Science
+```
 
 ```bash
 bash ./init_codespace.sh
 ```
 
-```bash
-source ~/.bashrc
-```
-
-### Most Customizable Option
-
-
-### Run the Python Code
-
 ---
+
+### Setup Codespace Visual Studio Code
+
+#### 1. Click the Play Button in Any Jupyter Notebook
+
+![Play Button](./images/jupyter_button.png)
+
+#### 2. Click the Install Option for Python and Jupyter
+
+![Install Python and Jupyter](./images/install_jupyter_plugin.png)
+
+#### 3. After Installation, Select a Kernel
+
+![Select Kernel](./images/select_kernel.png)
+
+#### 4. Click `Python Environments` Option
+
+![Python Environments](./images/python_env.png)
+
+#### 5. Select the `venv` Environment
+
+![Select venv](./images/select_venv.png)'
 
 ## Table of Contents
 
