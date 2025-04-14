@@ -78,15 +78,26 @@ runtime.
 ---
 
 ### Chapter 1: Python 101
-- Syntax
+- [Syntax](https://www.w3schools.com/python/)
 - Installing Dependencies
+  - `pip install <package_name>`
 
 ### Chapter 2: Data Science 101
 - What is a DataFrame?
   - A way of representing data in code as a table format. It allows for a 
 separation of data and code for the integrity of the data.
 - Jupyter Notebooks
-- Pandas, NumPy, and Matplotlib
+  - An interactive tool that combines documentation and code. It allows you to
+generate immediate data visualizations and documentation.
+- Libraries
+  - **Pandas:** A library for data manipulation and analysis.
+  - **NumPy:** A library for numerical computing in Python.
+  - **Matplotlib:** A library for creating static, animated, and interactive
+visualizations.
+  - **TensorFlow:** A library for machine learning and deep learning.
+    - **Keras:** A high-level API for building and training deep learning 
+models.
+  - **Scikit-learn:** A numerical library for machine learning.
 - Data Storage
   - Text
   - CSV
@@ -146,6 +157,8 @@ number that represents how far off the predicted values are from the actual.
 - What is an optimizer?
   - An optimizer is an algorithm that is used to minimize the loss function.
 - What is a learning rate?
+  - The learning rate is a parameter that controls how much to change the 
+model weights in response to learning.
 
 ### Chapter 7: Machine Learning with TensorFlow
 - [Dataset](./Powerful-Data-Science/datasets/dow_jones.csv)
